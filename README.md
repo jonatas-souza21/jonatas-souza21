@@ -2,7 +2,7 @@
 
 - 🔥 Futuro Web Developer
 - 📚 Estudante pelo [@iosoficial](https://www.instagram.com/iosoficial/)
-- 🔭 Trabalhando atualmente neste [projeto](https://github.com/jonatas-souza21/ProjetoTCC_Pagina-EcoDesign/tree/master)
+- 🔭 Trabalhando atualmente neste [projeto](https://github.com/jonatas-souza21/ProjetoTCC_Pagina-EcoDesign/tree/main)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-evangelista/)
 
