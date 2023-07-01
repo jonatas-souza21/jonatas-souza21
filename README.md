@@ -1,8 +1,12 @@
-# Saudações, meu nome é Jonatas 👨‍💻
+# Prazer, meu nome é Jonatas 👨‍💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas-souza21&hide_progress=true&theme=dracula)
+- 🔥 Futuro Web Developer
+- 📚 Estudante pelo [@iosoficial](https://www.instagram.com/iosoficial/)
+- 🔭 Trabalhando atualmente neste [projeto](https://github.com/jonatas-souza21/ProjetoTCC_Pagina-EcoDesign/tree/master)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-evangelista/)
+
+<br>
 
 ## Tecnologias que utilizo 💻
 <div style="display: inline-block">
@@ -12,3 +16,8 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></img>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></img>
 </div>
+
+<br>
+
+## Estatísticas 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas-souza21&hide_progress=true&theme=dracula)
