@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-evangelista/)
 
-<br>
+
 
 ## Tecnologias que utilizo 💻
 <div style="display: inline-block">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></img>
 </div>
 
-<br>
+
 
 ## Estatísticas 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas-souza21&hide_progress=true&theme=dracula)
